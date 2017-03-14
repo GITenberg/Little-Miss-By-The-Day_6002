@@ -1,5 +1,8 @@
 _repo: Little-Miss-By-The-Day_6002
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Van Slyke, Lucille
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '1911'
     url: http://www.gutenberg.org/2009/agents/1911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6002#Little-Miss-By-The-Day
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
