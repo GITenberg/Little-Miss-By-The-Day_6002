@@ -1,5 +1,5 @@
 _repo: Little-Miss-By-The-Day_6002
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Brooklyn (New York, N.Y.) -- Fiction'
 - !lcsh 'Young women -- Fiction'
+- GITenberg
 title: Little Miss By-The-Day
 url: http://www.gutenberg.org/ebooks/6002
